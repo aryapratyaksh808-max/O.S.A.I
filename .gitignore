@@ -1,0 +1,58 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ml/
+pytorchGPU/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Model checkpoints (keep only intentionally published models)
+*.pth
+*.pt
+*.onnx
+*.ckpt
+
+# Generated predictions and temporary data
+predictions/
+outputs/
+temp/
+tmp/
+
+# Frontend
+node_modules/
+frontend/dist/
+frontend/build/
+
+# Large datasets
+datasets/
+data/raw/
+data/processed/
