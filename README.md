@@ -42,6 +42,7 @@ authorities and additional evidence.
 -   [17. Limitations and Responsible
     Use](#17-limitations-and-responsible-use)
 -   [18. Future Improvements](#18-future-improvements)
+-   -   [19. Contacts](#19-Contacts)
 
 ------------------------------------------------------------------------
 
@@ -833,6 +834,34 @@ independent verification and applicable procedures.
 -   Reproducible experiment tracking and model versioning.
 -   Automated evidence bundles and audit logs.
 
+## 19. Contacts & Collaboration
+---
+
+For project integration, collaboration, research purposes, or authorized use of OSAI, feel free to contact me.
+
+**Developer:** Mr Pratyakash Arya
+
+- **Email:** aryapratyaksh42@gmail.com
+- **Phone:** +91 9557683093
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/pratyaksh-arya-55a449324?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- **Instagram:** [Follow me](https://www.instagram.com/pratyaksh401/)
+
+### 🤝 Collaboration & Usage
+
+OSAI is developed for oil spill detection, geospatial intelligence, and vessel attribution research.
+
+For:
+- Project integration and deployment
+- Research and academic collaboration
+- Technical discussions
+- Authorized use or customization of the project
+
+Please contact me through any of the channels above.
+
+**Note:** Please contact the developer before redistributing, commercially using, or integrating this project into another product.
+
+---
+
 ------------------------------------------------------------------------
 
 ## Project Status
@@ -845,3 +874,7 @@ current repository and tested behaviour.
 **Do not interpret a reference repository, pretrained checkpoint, or
 reported benchmark as an OSAI result unless it has been integrated and
 independently tested on OSAI's own data.**
+
+
+
+
