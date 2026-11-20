@@ -1,0 +1,28 @@
+
+# Deep Learning
+torch
+torchvision
+
+# Image Processing
+opencv-python
+Pillow
+
+# Numerical Computing
+numpy
+pandas
+
+# Machine Learning
+scikit-learn
+tqdm
+
+# Visualization
+matplotlib
+
+# Geospatial Processing
+rasterio
+geopandas
+shapely
+
+# Jupyter Notebook
+jupyter
+ipykernel
