@@ -1,0 +1,23 @@
+
+cff-version: 1.2.0
+message: "If you use OSAI in your research, please cite this project."
+title: "OSAI - Oil Spill Attribution Intelligence"
+type: software
+authors:
+  - family-names: "Arya"
+    given-names: "Pratyaksh"
+repository-code: "https://github.com/aryapratyaksh808-max/OSAI"
+abstract: >
+  OSAI is an AI-powered satellite intelligence
+  project focused on marine oil spill detection,
+  geospatial analysis, and potential vessel
+  attribution using historical AIS data.
+keywords:
+  - Oil Spill Detection
+  - Sentinel-1
+  - SAR
+  - Deep Learning
+  - Image Segmentation
+  - AIS
+  - Geospatial Intelligence
+license: "TBD"
